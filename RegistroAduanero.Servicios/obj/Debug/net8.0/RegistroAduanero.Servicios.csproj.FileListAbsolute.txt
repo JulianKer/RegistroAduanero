@@ -1,0 +1,15 @@
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\bin\Debug\net8.0\RegistroAduanero.Servicios.deps.json
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\bin\Debug\net8.0\RegistroAduanero.Servicios.dll
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\bin\Debug\net8.0\RegistroAduanero.Servicios.pdb
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\bin\Debug\net8.0\RegistroAduanero.Entidades.dll
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\bin\Debug\net8.0\RegistroAduanero.Entidades.pdb
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\RegistroAduanero.Servicios.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\RegistroAduanero.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\RegistroAduanero.Servicios.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\RegistroAduanero.Servicios.AssemblyInfo.cs
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\RegistroAduanero.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\Registro.F6D76D45.Up2Date
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\RegistroAduanero.Servicios.dll
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\refint\RegistroAduanero.Servicios.dll
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\RegistroAduanero.Servicios.pdb
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Servicios\obj\Debug\net8.0\ref\RegistroAduanero.Servicios.dll

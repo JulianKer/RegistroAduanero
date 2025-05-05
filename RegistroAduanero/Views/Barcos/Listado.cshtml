@@ -1,0 +1,38 @@
+﻿@using RegistroAduanero.Entidades;
+
+@model List<Barco>
+
+@{
+}
+
+<div> 
+	@if(Model != null && Model.Count() > 0)
+	{
+		<table class="table">
+			<thead>
+				<tr>
+					<th>#IdBarco</th>
+					<th>Nombre</th>
+					<th>Antigüedad (años)</th>
+					<th>Tripulación Máx.</th>
+					<th>Tasa</th>
+				</tr>
+			</thead>
+
+			@foreach (Barco b in Model)
+			{
+				<tr>
+					<th># @b._idBarco</th>
+					<th>@b._nombre</th>
+					<th>@b._antiguedad</th>
+					<th>@b._tripulacionMax</th>
+					<th>$ @b._tasa</th>
+				</tr>
+			}
+		</table>
+	}
+	else
+	{
+		<h2>No hay barcos registrados.</h2>
+	}
+</div>

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RegistroAduanero.Servicios/1.0.0": {
+        "dependencies": {
+          "RegistroAduanero.Entidades": "1.0.0"
+        },
+        "runtime": {
+          "RegistroAduanero.Servicios.dll": {}
+        }
+      },
+      "RegistroAduanero.Entidades/1.0.0": {
+        "runtime": {
+          "RegistroAduanero.Entidades.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RegistroAduanero.Servicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RegistroAduanero.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

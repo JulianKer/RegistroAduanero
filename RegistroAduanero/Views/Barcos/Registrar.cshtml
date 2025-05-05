@@ -1,0 +1,31 @@
+﻿@model RegistroAduanero.Entidades.Barco;
+
+@{
+}
+
+<form asp-action="RegistrarBarco" method="post">
+	<div class="form-group">
+		<label> 
+			Nombre:
+			<input asp-for="_nombre"/>
+		</label>
+		<span asp-validation-for="_nombre" class="alert-danger"></span>
+	</div>
+	<div class="form-group">
+		<label> 
+			Antiguedad::
+			<input asp-for="_antiguedad"/>
+		</label>
+		<span asp-validation-for="_antiguedad" class="alert-danger"></span>
+	</div>
+
+	<div class="form-group">
+		<label>
+			Tripulación Máx.:
+			<input asp-for="_tripulacionMax" />
+		</label>
+		<span asp-validation-for="_tripulacionMax" class="alert-danger"></span>
+	</div>
+
+	<input type="submit" value="Registrar ..."/>
+</form>
