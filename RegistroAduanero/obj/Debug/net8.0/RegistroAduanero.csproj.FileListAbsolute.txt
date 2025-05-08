@@ -1,3 +1,12 @@
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.AssemblyInfo.cs
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.RazorAssemblyInfo.cache
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.RazorAssemblyInfo.cs
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.sourcelink.json
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\bin\Debug\net8.0\appsettings.json
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\bin\Debug\net8.0\RegistroAduanero.staticwebassets.runtime.json
@@ -11,14 +20,6 @@ C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\bin\Debug\net8.0\R
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\bin\Debug\net8.0\RegistroAduanero.Servicios.dll
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\bin\Debug\net8.0\RegistroAduanero.Entidades.pdb
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\bin\Debug\net8.0\RegistroAduanero.Servicios.pdb
-C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.csproj.AssemblyReference.cache
-C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.AssemblyInfoInputs.cache
-C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.AssemblyInfo.cs
-C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.csproj.CoreCompileInputs.cache
-C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.RazorAssemblyInfo.cache
-C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\RegistroAduanero.RazorAssemblyInfo.cs
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\scopedcss\bundle\RegistroAduanero.styles.css
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero\obj\Debug\net8.0\scopedcss\projectbundle\RegistroAduanero.bundle.scp.css

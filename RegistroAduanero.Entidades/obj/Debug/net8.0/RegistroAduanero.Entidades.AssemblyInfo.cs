@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RegistroAduanero.Entidades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1347d9b205e971557b334833469d3a3cc1407f7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RegistroAduanero.Entidades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RegistroAduanero.Entidades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

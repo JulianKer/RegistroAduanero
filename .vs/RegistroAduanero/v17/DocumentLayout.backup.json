@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero\\views\\barcos\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|solutionrelative:registroaduanero\\views\\barcos\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero\\views\\barcos\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|solutionrelative:registroaduanero\\views\\barcos\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero\\controllers\\barcoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|solutionrelative:registroaduanero\\controllers\\barcoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|solutionrelative:registroaduanero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0146F052-A6A8-4EDC-98A2-EE25C3588C2C}|RegistroAduanero.Servicios\\RegistroAduanero.Servicios.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero.servicios\\serviciobarcos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0146F052-A6A8-4EDC-98A2-EE25C3588C2C}|RegistroAduanero.Servicios\\RegistroAduanero.Servicios.csproj|solutionrelative:registroaduanero.servicios\\serviciobarcos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6B70B9A-B518-4D6B-B0AD-7EA94F2A97B3}|RegistroAduanero.Entidades\\RegistroAduanero.Entidades.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero.entidades\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6B70B9A-B518-4D6B-B0AD-7EA94F2A97B3}|RegistroAduanero.Entidades\\RegistroAduanero.Entidades.csproj|solutionrelative:registroaduanero.entidades\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero\\controllers\\barcoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|solutionrelative:registroaduanero\\controllers\\barcoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero\\models\\barcoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|solutionrelative:registroaduanero\\models\\barcoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|solutionrelative:registroaduanero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero\\views\\barcos\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|solutionrelative:registroaduanero\\views\\barcos\\listado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|c:\\users\\germa\\source\\repos\\registroaduanero\\registroaduanero\\views\\barcos\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A68E97C4-07A5-4924-8BD1-A8F51FD2AF83}|RegistroAduanero\\RegistroAduanero.csproj|solutionrelative:registroaduanero\\views\\barcos\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +50,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicioBarcos.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero.Servicios\\ServicioBarcos.cs",
+              "RelativeDocumentMoniker": "RegistroAduanero.Servicios\\ServicioBarcos.cs",
+              "ToolTip": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero.Servicios\\ServicioBarcos.cs",
+              "RelativeToolTip": "RegistroAduanero.Servicios\\ServicioBarcos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:54:18.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "BarcoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero\\Models\\BarcoViewModel.cs",
+              "RelativeDocumentMoniker": "RegistroAduanero\\Models\\BarcoViewModel.cs",
+              "ToolTip": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero\\Models\\BarcoViewModel.cs",
+              "RelativeToolTip": "RegistroAduanero\\Models\\BarcoViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T23:05:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero\\Program.cs",
               "RelativeDocumentMoniker": "RegistroAduanero\\Program.cs",
@@ -59,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Listado.cshtml",
               "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero\\Views\\Barcos\\Listado.cshtml",
               "RelativeDocumentMoniker": "RegistroAduanero\\Views\\Barcos\\Listado.cshtml",
@@ -72,39 +102,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServicioBarcos.cs",
-              "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero.Servicios\\ServicioBarcos.cs",
-              "RelativeDocumentMoniker": "RegistroAduanero.Servicios\\ServicioBarcos.cs",
-              "ToolTip": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero.Servicios\\ServicioBarcos.cs",
-              "RelativeToolTip": "RegistroAduanero.Servicios\\ServicioBarcos.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T00:09:10.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Barco.cs",
               "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero.Entidades\\Barco.cs",
               "RelativeDocumentMoniker": "RegistroAduanero.Entidades\\Barco.cs",
               "ToolTip": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero.Entidades\\Barco.cs",
               "RelativeToolTip": "RegistroAduanero.Entidades\\Barco.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAiwBcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T00:04:18.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Registrar.cshtml",
               "DocumentMoniker": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero\\Views\\Barcos\\Registrar.cshtml",
               "RelativeDocumentMoniker": "RegistroAduanero\\Views\\Barcos\\Registrar.cshtml",
               "ToolTip": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero\\Views\\Barcos\\Registrar.cshtml",
               "RelativeToolTip": "RegistroAduanero\\Views\\Barcos\\Registrar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-04T23:56:41.47Z",
               "EditorCaption": ""
@@ -117,7 +134,7 @@
               "RelativeDocumentMoniker": "RegistroAduanero\\Controllers\\BarcosController.cs",
               "ToolTip": "C:\\Users\\germa\\source\\repos\\RegistroAduanero\\RegistroAduanero\\Controllers\\BarcosController.cs",
               "RelativeToolTip": "RegistroAduanero\\Controllers\\BarcosController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwB8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T23:48:02.627Z",
               "EditorCaption": ""

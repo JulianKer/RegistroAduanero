@@ -1,10 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using RegistroAduanero.Entidades;
 
-namespace RegistroAduanero.Entidades
+namespace RegistroAduanero.Models
 {
-    public class Barco
+    public class BarcoViewModel
     {
-        public int _idBarco { get; set; }
 
         [Required(ErrorMessage = "El campo Nombre es requerido.")]
         [StringLength(40, ErrorMessage = "Hasta 40 caracteres.")]
@@ -18,15 +18,18 @@ namespace RegistroAduanero.Entidades
         [Range(10, 1000, ErrorMessage = "La Tripulacion Máx. debe ser mayor o igual a 10 y menor a 1000.")]
         public int _tripulacionMax { get; set; }
 
-        public double _tasa { get; set; }
-
-        public Barco() {}
-        public Barco(string nombre, int antiguedad, int tripulacionMax)
+        public BarcoViewModel() { }
+        public BarcoViewModel(string nombre, int antiguedad, int tripulacionMax)
         {
-            this._nombre = nombre;  
-            this._antiguedad = antiguedad;  
+            this._nombre = nombre;
+            this._antiguedad = antiguedad;
             this._tripulacionMax = tripulacionMax;
         }
 
+
+        public Barco MapearseAEntidadBarco()
+        {
+            return new Barco(this._nombre, this._antiguedad, this._tripulacionMax);
+        }
     }
 }

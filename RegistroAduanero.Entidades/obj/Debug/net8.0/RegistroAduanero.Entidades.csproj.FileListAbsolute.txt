@@ -5,6 +5,7 @@ C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Entidades\obj\Debu
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Entidades\obj\Debug\net8.0\RegistroAduanero.Entidades.AssemblyInfoInputs.cache
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Entidades\obj\Debug\net8.0\RegistroAduanero.Entidades.AssemblyInfo.cs
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Entidades\obj\Debug\net8.0\RegistroAduanero.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Entidades\obj\Debug\net8.0\RegistroAduanero.Entidades.sourcelink.json
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Entidades\obj\Debug\net8.0\RegistroAduanero.Entidades.dll
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Entidades\obj\Debug\net8.0\refint\RegistroAduanero.Entidades.dll
 C:\Users\germa\source\repos\RegistroAduanero\RegistroAduanero.Entidades\obj\Debug\net8.0\RegistroAduanero.Entidades.pdb

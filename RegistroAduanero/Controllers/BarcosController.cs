@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using RegistroAduanero.Entidades;
+using RegistroAduanero.Models;
 using RegistroAduanero.Servicios;
 
 namespace RegistroAduanero.Controllers
@@ -20,14 +21,16 @@ namespace RegistroAduanero.Controllers
         }
 
         [HttpPost]
-        public IActionResult RegistrarBarco(Barco nuevoBarco)
+        public IActionResult RegistrarBarco(BarcoViewModel nuevoBarcoViewModel)
         {
             if (!ModelState.IsValid)
             {
                 return View("Registrar");
             }
 
-            this._servicioBarcos.RegistrarBarco(nuevoBarco);
+            Barco barcoMapeado = nuevoBarcoViewModel.MapearseAEntidadBarco();
+            this._servicioBarcos.RegistrarBarco(barcoMapeado);
+
             return RedirectToAction("Listado");
         }
         //---------------------------------------------------
